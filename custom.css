@@ -1,3 +1,7 @@
+h1, h2, h3 {
+    text-align: center;
+}
+
 @media (min-width: 768px) {
     .bootcamp__title {
         min-height: 80px;
@@ -5,5 +9,6 @@
 
     .bootcamp__content {
         min-height: 140px;
+
     }
 }
